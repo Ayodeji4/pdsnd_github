@@ -14,3 +14,4 @@ Bikeshare.py
 It's important to give proper credit to Udacity and Access Bank.
 
 " Thank You" 
+"Udacity is Great for Learning" 
