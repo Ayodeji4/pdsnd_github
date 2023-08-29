@@ -1,3 +1,4 @@
+#This is the optimized code
 def time_stats(df):
     print('\nCalculating The Most Frequent Times of Travel...\n')
     start_time = time.time()
